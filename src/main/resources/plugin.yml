@@ -1,0 +1,4 @@
+name: DisableJoinLeaveMessage
+version: '1.0'
+main: tw.origincraft.Main
+api-version: '1.21'
